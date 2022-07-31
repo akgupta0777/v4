@@ -1,0 +1,13 @@
+---
+date: '2021-06-11'
+title: 'Webpack'
+github: 'https://github.com/webpack/webpack'
+external: ''
+tech:
+  - webpack
+  - bundler
+  - NPM Package
+showInProjects: true
+---
+
+A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand.
