@@ -439,9 +439,7 @@ const Featured = () => {
           })}
       </StyledProjectsGrid>
 
-      <h2 className="numbered-heading" ref={revealTitle}>
-        Some Open Source Projects I've worked on
-      </h2>
+      <h3 ref={revealTitle}>Open Source Projects I've worked on</h3>
 
       <StyledProjectsGrid>
         {featuredProjects &&
