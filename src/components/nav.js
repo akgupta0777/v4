@@ -175,7 +175,7 @@ const Nav = ({ isHome }) => {
   const ResumeLink = (
     <a
       className="resume-button"
-      href="/Abhay_Gupta_Resume.pdf"
+      href="https://drive.google.com/file/d/1f6c51GinseGJ8WGsPuS1eK2i8WtxigkK/view?usp=sharing"
       target="_blank"
       rel="noopener noreferrer"
     >
